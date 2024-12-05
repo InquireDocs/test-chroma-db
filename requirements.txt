@@ -1,1 +1,1 @@
-chromadb==0.5.20
+chromadb==0.5.23
